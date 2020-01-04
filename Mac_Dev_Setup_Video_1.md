@@ -2,7 +2,7 @@
 Youtube Link: 
 
 ### Installing Xcode and Xcode Developer Tools
-* Timestamp: 0.45 - 1.55 & 18.50 - 19.20 - 20.13
+* Timestamp: 0.45 - 1.55 & 18.50 - 19.20
 * Where to install: Mac App Store 
 
 ### Installing a Sublime Text (my text editor of choice)
