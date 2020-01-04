@@ -2,21 +2,21 @@
 Youtube Link: 
 
 ### Installing and Configuring Android Studio (android)
-* Timestamp: 0.45 - 1.55 & 
+* Timestamp: 3.50 - 9.40
 
-Where to install: Mac App Store 
+Where to install: https://developer.android.com/studio 
 
 ### Installing and Configuring IntelliJ IDEA (java)
-* Timestamp: 1.55 - 4.50
+* Timestamp: 14.05 - 16.15
 
-Where to install: https://www.sublimetext.com/
+Where to install: https://www.jetbrains.com/idea/download/#section=mac
 
 ### Installing and Configuring WebStorm (java script)
-* Timestamp: 5.55 - 8.30 & 
+* Timestamp: 10.00 - 14.00
 
-Where to install: https://iterm2.com/
+Where to install: https://www.jetbrains.com/webstorm/download/#section=mac
 
 ### Installing and Configuring PyCharm (python)
-* Timestamp: 
+* Timestamp: 16.30 - 18.20
 
-Where to install: 
+Where to install: https://www.jetbrains.com/pycharm/download/#section=mac
