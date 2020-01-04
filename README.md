@@ -23,16 +23,19 @@ What all is covered:
 * Installing Keyboard Maestro and how I use it
 
 ### Mac Dev Setup Video 2: Installing and Config of IDE's
+What all is covered
 * Installing and Configuring Android Studio (android)
 * Installing and Configuring IntelliJ IDEA (java)
 * Installing and Configuring WebStorm (java script)
 * Installing and Configuring PyCharm (python)
 
 ### Mac Dev Setup Video 3: Developer Convenience Applications
+What all is covered
 * Installing Sourcetree and what it is used for
 * Installing Postman and what it is used for
 
 ### Mac Dev Setup Video 4: Convenience Applications
+What all is covered
 * Installing Amphetamine and what it is used for
 * Installing Trello and what it is used for
 * Installing Spotify and what it is used for
@@ -41,6 +44,7 @@ What all is covered:
 * Installing Slack and what it is used for 
 
 ### Mac Dev Setup Video 5: Developer Environment Setup
+What all is covered
 * Setting up pyenv for swapping python versions and virtual envs as well as how to use them in Pycharm
 * Setting up nvm for swapping node versions
 * Setting up java 11 and how to use it in IDEA
