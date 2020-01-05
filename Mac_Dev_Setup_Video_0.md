@@ -1,5 +1,5 @@
 # Video 0: Summary and Overview
-Youtube Link: 
+Youtube Link: https://youtu.be/Lgp8fwM-M38
 
 Who is this for:
 * New developers wanting to learn how to set up a mac

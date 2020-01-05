@@ -1,5 +1,5 @@
 # Video 3: Developer Convenience Applications
-Youtube Link: 
+Youtube Link: https://youtu.be/tiwwI1zw6ng
 
 ### Installing Sourcetree and what it is used for
 * Timestamp: 0.20 - 4.20

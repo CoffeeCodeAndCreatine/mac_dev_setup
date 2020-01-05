@@ -1,5 +1,5 @@
 # Video 5: Developer Environment Setup
-Youtube Link: 
+Youtube Link: https://youtu.be/hXfegfi824k
 
 ### Python
 * Timestamp: 1.30 - 25.20

@@ -1,5 +1,5 @@
 # Video 4: Convenience Applications
-Youtube Link: 
+Youtube Link: https://youtu.be/2yQd-2uUzao
 
 ### Installing Amphetamine and what it is used for
 * Timestamp: 0.38 - 1:42

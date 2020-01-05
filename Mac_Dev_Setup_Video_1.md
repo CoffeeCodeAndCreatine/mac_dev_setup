@@ -1,5 +1,5 @@
 # Video 1: Just the Basics
-Youtube Link: 
+Youtube Link: https://youtu.be/8TZYsQkhXwc
 
 ### Installing Xcode and Xcode Developer Tools
 * Timestamp: 0.45 - 1.55 & 18.50 - 19.20

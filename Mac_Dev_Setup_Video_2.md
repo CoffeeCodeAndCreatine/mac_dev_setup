@@ -1,5 +1,5 @@
 # Video 2: Installing and Config of IDE's
-Youtube Link: 
+Youtube Link: https://youtu.be/rMD1JW6DpkM
 
 ### Installing and Configuring Android Studio (android)
 * Timestamp: 3.50 - 9.40
